@@ -7,4 +7,10 @@ public class Raj1 {
 		System.out.println("This is test one method");
 	}
 
+	
+	
+	public void test2()
+	{
+		System.out.println("hi am ashok");
+	}
 }
